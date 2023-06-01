@@ -47,6 +47,9 @@ button {
   flex: 1;
   gap: 8px;
 }
+.hero-container p {
+  font-size: 18px;
+}
 .hero {
   font-size: 48px;
   font-weight: 900;
