@@ -101,3 +101,29 @@ button {
 .img-box-container p {
   text-align: center;
 }
+
+/* Section 3 - quote */
+
+.three {
+  background-color: #e5e7eb;
+}
+.quote {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+.quote-text {
+  font-size: 36px;
+  font-style: light italic;
+  color: #1f2937;
+  padding-top: 5rem;
+}
+.quote p {
+  margin-left: auto;
+  padding-bottom: 5rem;
+  font-size: 22px;
+  font-weight: bold;
+}
